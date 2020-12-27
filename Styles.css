@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Aubrey&display=swap');
+
+#topdiv {
+    background-color: #660000;
+    font-family: Impact;
+    color: #f2f2f2;
+  }
+  #title {
+    font-family: Brush Script Std, Brush Script MT, cursive;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Aubrey', cursive;
+  }
+  #image {
+    display: block;
+    position: relative;
+    max-width: 40%;
+    margin: auto;
+  }
+  #img-div {
+    background-color: tan;
+  }
+  #img-caption {
+    color: whitesmoke;
+    margin-top: -20px;
+    margin-right: 20px;
+    float: right;
+    text-align: center;
+  }
+
