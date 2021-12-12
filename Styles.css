@@ -17,9 +17,11 @@
     position: relative;
     max-width: 40%;
     margin: auto;
+    min-height: 100px;
+    max-height: 350px;
   }
   #img-div {
-    background-color: tan;
+    background-color: whitesmoke;
   }
   #img-caption {
     color: whitesmoke;
@@ -27,5 +29,36 @@
     margin-right: 20px;
     float: right;
     text-align: center;
+  }
+
+  #main {
+    background-color: whitesmoke;
+  }
+
+  /* #tribute-info {
+  }
+
+  #list {
+    align-content: center;
+    max-width: 500px;
+  } */
+
+  .main-content {
+    text-align: center;
+  }
+
+  .dates {
+    font-weight: bold;
+  }
+
+  ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+  }
+  
+  li {
+    margin: 16px 0;
   }
 
